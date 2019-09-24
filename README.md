@@ -1,2 +1,2 @@
 # viking
-team vikiing general repo
+team viking general repo
